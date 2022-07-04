@@ -1,1 +1,1 @@
-# MegaMarket-YandexBES-test-task
+# Test task for Yandex backend school, summer 2022
