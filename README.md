@@ -1,1 +1,1 @@
-# Test task for Yandex backend school, summer 2022
+# Вступительное задание в Летнюю Школу Бэкенд Разработки Яндекса 2022
